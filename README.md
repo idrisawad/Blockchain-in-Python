@@ -2,7 +2,7 @@
 
 This repository contains a basic implementation of a blockchain in Python. This implementation is intended for educational purposes only and is not suitable for production use.
 
-The code includes a Block class, which represents a single block in the blockchain, and a Blockchain class, which is used to manage the chain of blocks. The Block class includes a method for calculating the SHA-256 hash of the block, which is used to ensure the integrity of the block. The Blockchain class includes methods for creating the genesis block, getting the latest block, and adding new blocks to the chain.
+The code includes a `Block` class, which represents a single block in the blockchain, and a `Blockchain` class, which is used to manage the chain of blocks. The `Block` class includes a method for calculating the SHA-256 hash of the block, which is used to ensure the integrity of the block. The `Blockchain` class includes methods for creating the genesis block, getting the latest block, and adding new blocks to the chain.
 
 ### User Manual: ###
 
