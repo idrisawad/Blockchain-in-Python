@@ -7,11 +7,11 @@ The code includes a Block class, which represents a single block in the blockcha
 ### User Manual: ###
 
  1. Make sure you have Python installed on your machine. You can download it from the official website if you don't have it already.
- 2. Clone the repository containing the blockchain script to your local machine using the command git clone https://github.com/<username>/<repository-name>
+ 2. Clone the repository containing the blockchain script to your local machine using the command `git clone https://github.com/idrisawad/Blockchain-in-Python`
  3. Open a terminal or command prompt and navigate to the directory where you cloned the repository.
- 4. Run the script using the command python blockchain.py or python3 blockchain.py depending on your system.
+ 4. Run the script using the command `python blockchain.py` or `python3 blockchain.py` depending on your system.
  5. The script will output the current chain of blocks, which should only contain the genesis block at this point.
- 6. You can now add new blocks to the blockchain by creating new Block objects and passing them to the add_block method of the Blockchain object. For example:
+ 6. You can now add new blocks to the blockchain by creating new `Block` objects and passing them to the `add_block` method of the `Blockchain` object. For example:
 
 ```
 bc = Blockchain()
